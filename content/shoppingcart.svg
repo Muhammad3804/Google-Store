@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200pt" height="1200pt" version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1e3 1e3c0 55.227-44.773 100-100 100s-100-44.773-100-100 44.773-100 100-100 100 44.773 100 100"/>
+ <path d="m450 1e3c0 55.227-44.773 100-100 100s-100-44.773-100-100 44.773-100 100-100 100 44.773 100 100"/>
+ <path transform="scale(50)" d="m20 16h-13c-0.8 0-1.3-0.9-0.8-1.6l1.8-2.4-3-9h-3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+ <path d="m1050 200h-780l130 450h495c20 0 40-10 45-30l155-350c15-35-10-70-45-70z"/>
+</svg>
